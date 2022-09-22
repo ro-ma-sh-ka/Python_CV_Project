@@ -1,1 +1,1 @@
-# Python_CV_Project
+# Python_simple_games
